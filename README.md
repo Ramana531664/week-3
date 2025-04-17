@@ -1,1 +1,1 @@
-# week-3
+"Multi_Class_Animal_Classification" is a deep learning project that classifies images of 90 animal species. It uses MobileNetV2 with additional layers for modeling, processes images with ImageDataGenerator, and trains the model using the Adam optimizer. The dataset is loaded via kagglehub, and the notebook runs entirely through code cells without markdown.
